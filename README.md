@@ -1,0 +1,1 @@
+This repository contains implementation of tic tac toe game using the minimax algorithm.
